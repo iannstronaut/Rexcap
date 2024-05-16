@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rexcap</string>
+    <string name="title_activity_main">rexcap</string>
+    <string name="package_name">com.iannrepo.rexcap</string>
+    <string name="custom_url_scheme">com.iannrepo.rexcap</string>
+</resources>

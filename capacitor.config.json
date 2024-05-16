@@ -1,0 +1,8 @@
+{
+  "appId": "com.iannrepo.rexcap",
+  "appName": "rexcap",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
