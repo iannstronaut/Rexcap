@@ -10,6 +10,7 @@ npm run dev (web)
 # or
 npx cap add android
 npm run android
+*(Live Reload still cannot be used)* 
 ```
 ## Documentation
 Learn More
