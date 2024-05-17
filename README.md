@@ -11,7 +11,6 @@ npm run dev (web)
 npx cap add android
 npm run android
 ```
-_(Live Reload still cannot be used)_
 ## Documentation
 Learn More
 [Vite](https://vitejs.dev) [React](https://react.dev) [Express](https://expressjs.com) [Capacitor](https://capacitorjs.com)
