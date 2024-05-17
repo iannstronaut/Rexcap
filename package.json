@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "android": "vite build && npx cap run android"
+    "android": "ionic cap run android -l --external"
   },
   "dependencies": {
     "@capacitor/android": "6.0.0",
