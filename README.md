@@ -8,8 +8,9 @@ npm install / npm i
 # then
 npm run dev (web)
 # or
-npx cap add android
-npm run android
+npm run build
+npx cap add android/ios
+npm run android/ios
 ```
 ## Documentation
 Learn More
