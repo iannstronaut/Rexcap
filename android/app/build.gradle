@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.iannrepo.rexcap"
+    namespace "com.rexcap"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.iannrepo.rexcap"
+        applicationId "com.rexcap"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

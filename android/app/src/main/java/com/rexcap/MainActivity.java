@@ -1,4 +1,4 @@
-package com.iannrepo.rexcap;
+package com.rexcap;
 
 import com.getcapacitor.BridgeActivity;
 
