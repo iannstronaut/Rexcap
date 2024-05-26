@@ -3,9 +3,8 @@ import viteLogo from "/vite.svg";
 import expressLogo from "/express.svg";
 import capacitorLogo from "/capacitor.svg";
 import "./App.css";
-import { Route, Routes } from "react-router";
 import HomePage from "./pages/HomePage";
-import { Link } from "react-router-dom";
+import { Link, Route, Routes } from "react-router-dom";
 import UpdatesPage from "./pages/UpdatePage";
 
 function App() {
